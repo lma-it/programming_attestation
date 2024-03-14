@@ -53,3 +53,10 @@ string[] ReshapeArray(string[] dictionary)
     }
     return newdictionary;
 }
+
+void PrintArray(string[] dictionary)
+{
+    foreach(var item in dictionary){
+        System.Console.Write(item + " ");
+    }
+}
