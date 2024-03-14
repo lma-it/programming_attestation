@@ -32,3 +32,24 @@ string[] CreateAndFillArray()
     }
     return dictionary;
 }
+
+string[] ReshapeArray(string[] dictionary)
+{
+    string[] newdictionary;
+    int count = 0;
+    for(int i = 0; i < dictionary.Length; i++){
+        if(dictionary[i].Length <= 3){
+            count++;
+        }
+    }
+    newdictionary = new string[count];
+    count = 0;
+
+    for(int i = 0; i < dictionary.Length; i++){
+        if(dictionary[i].Length <= 3){
+            newdictionary[count] = dictionary[i];
+            count++;
+        }
+    }
+    return newdictionary;
+}
