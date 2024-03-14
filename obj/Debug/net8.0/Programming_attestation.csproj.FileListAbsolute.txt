@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GeekBrains\Programming_attestation\bin\Debug\net8.0\Programming_attestation.exe
+C:\Users\user\Documents\GeekBrains\Programming_attestation\bin\Debug\net8.0\Programming_attestation.deps.json
+C:\Users\user\Documents\GeekBrains\Programming_attestation\bin\Debug\net8.0\Programming_attestation.runtimeconfig.json
+C:\Users\user\Documents\GeekBrains\Programming_attestation\bin\Debug\net8.0\Programming_attestation.dll
+C:\Users\user\Documents\GeekBrains\Programming_attestation\bin\Debug\net8.0\Programming_attestation.pdb
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\Programming_attestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\Programming_attestation.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\Programming_attestation.AssemblyInfo.cs
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\Programming_attestation.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\Programming_attestation.sourcelink.json
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\Programming_attestation.dll
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\refint\Programming_attestation.dll
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\Programming_attestation.pdb
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\Programming_attestation.genruntimeconfig.cache
+C:\Users\user\Documents\GeekBrains\Programming_attestation\obj\Debug\net8.0\ref\Programming_attestation.dll
