@@ -6,6 +6,7 @@ string[] dictionary;
 dictionary = CreateAndFillArray();
 System.Console.WriteLine("Вывод на экран изначального массива: ");
 PrintArray(dictionary);
+System.Console.WriteLine("");
 dictionary = ReshapeArray(dictionary);
 System.Console.WriteLine("Вывод на экран массива в котором только строки чья длина меньше или равна 3: ");
 PrintArray(dictionary);
