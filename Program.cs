@@ -19,17 +19,17 @@ string[] CreateAndFillArray()
 {
     int size = 0;
     string input;
-    int i = 0;
+    int index = 0;
     System.Console.WriteLine("Введите размер массива строк: ");
     size = int.Parse(Console.ReadLine()!);
     
     dictionary = new string[size];
 
-    while(i < size){
+    while(index < size){
         System.Console.WriteLine("Заполните массив: ");
         input = Console.ReadLine()!;
-        dictionary[i] = input;
-        i++;
+        dictionary[index] = input;
+        index++;
     }
     return dictionary;
 }
