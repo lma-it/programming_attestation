@@ -20,7 +20,7 @@ string[] CreateAndFillArray()
     int size = 0;
     string input;
     int i = 0;
-    System.Console.WriteLine("Введите размер массива слов: ");
+    System.Console.WriteLine("Введите размер массива строк: ");
     size = int.Parse(Console.ReadLine()!);
     
     dictionary = new string[size];
